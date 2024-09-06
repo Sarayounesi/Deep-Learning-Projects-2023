@@ -3,7 +3,7 @@ My solutions to IUST's Deep Learning Mini Projects, Fall 2023, Dr. Davoodabadi.
 
 ## <img width="40" height="40" src="https://img.icons8.com/?size=100&id=kOPTH4LnJoIU&format=png&color=000000" alt="homework"/> Projects
 ### P1
-- <img width="40" height="40" src="https://img.icons8.com/?size=100&id=ZAaNnqGkH5vD&format=png&color=000000" /> Machine Learning and Deep Learning Project Solutions
+- <img width="40" height="40" src="https://img.icons8.com/?size=100&id=104091&format=png&color=000000" /> Machine Learning and Deep Learning Project Solutions
 This repository contains solutions to various machine learning and deep learning problems, including:
 
 •  Probabilistic Models: Calculating class probabilities and classifying news headlines using learned probabilistic models.
