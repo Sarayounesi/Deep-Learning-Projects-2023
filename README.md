@@ -1,7 +1,7 @@
 # Deep-Learning-Projects
-My solutions to IUST's Fundamentals of Computer Vision , Fall 2022, Dr. Mohammadi.
+My solutions to IUST's Deep Learning Mini Projects, Fall 2023, Dr. Davoodabadi.
 
-## <img width="20" height="20" src="https://img.icons8.com/ios/50/41b883/homework.png" alt="homework"/> Homeworks
+## <img width="20" height="20" src="https://icons8.com/icon/kOPTH4LnJoIU/project-management" alt="homework"/> Homeworks
 ### HW1
 - Description: Homework 1 includes image formation questions.
 - Answers: [Link to HW1](https://github.com/lelnazrezaeel/Computer-Vision-IUST/tree/main/Homeworks/HW1)
