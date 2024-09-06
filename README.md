@@ -2,8 +2,8 @@
 My solutions to IUST's Deep Learning Mini Projects, Fall 2023, Dr. Davoodabadi.
 
 ## <img width="40" height="40" src="https://img.icons8.com/?size=100&id=kOPTH4LnJoIU&format=png&color=000000" alt="homework"/> Projects
-### P1
-- <img width="40" height="40" src="https://img.icons8.com/?size=100&id=104091&format=png&color=000000" /> Machine Learning and Deep Learning Project Solutions
+### <img width="40" height="40" src="https://img.icons8.com/?size=100&id=104091&format=png&color=000000" /> P1
+- Machine Learning and Deep Learning Project Solutions
 This repository contains solutions to various machine learning and deep learning problems, including:
 
 •  Probabilistic Models: Calculating class probabilities and classifying news headlines using learned probabilistic models.
@@ -22,7 +22,7 @@ This repository contains solutions to various machine learning and deep learning
 
 - Answers: [Link to DL1](https://github.com/Sarayounesi/Deep-Learning-Projects/tree/main/DL_1_SaraYounesi)
 
-### P2
+### <img width="40" height="40" src="https://img.icons8.com/?size=100&id=104091&format=png&color=000000" />  P2
 - 
 ----------------------------------------------------------------------------------------------------
 Overfitting and Underfitting in Neural Networks
@@ -57,7 +57,7 @@ Optimization and Model Training
 •  Techniques to induce and mitigate overfitting, including data augmentation and regularization.
 - Answers: [Link to DL2](https://github.com/Sarayounesi/Deep-Learning-Projects/tree/main/DL_2_SaraYounesi)
 
-### P3
+### <img width="40" height="40" src="https://img.icons8.com/?size=100&id=104091&format=png&color=000000" /> P3
 - Optimization and Convolutional Neural Networks Solutions
 This repository contains solutions to various optimization and convolutional neural network problems, including:
 ----------------------------------------------------------------------------------------------------
@@ -98,7 +98,7 @@ Inception Module Implementation
 •  Key features and operations of convolutional layers in the network.
 - Answers: [Link to DL3](https://github.com/Sarayounesi/Deep-Learning-Projects/tree/main/DL_3_SaraYounesi)
 
-### P4
+### <img width="40" height="40" src="https://img.icons8.com/?size=100&id=104091&format=png&color=000000" /> P4
 - MNIST Classification and Neural Network Optimization
 This repository contains solutions to various machine learning and neural network problems, including:
 
@@ -145,7 +145,7 @@ Grad-CAM Implementation
 •  Visualization and interpretation of Grad-CAM results.
 - Answers: [Link to DL4](https://github.com/Sarayounesi/Deep-Learning-Projects/tree/main/DL_4_SaraYounesi)
 
-### P5
+### <img width="40" height="40" src="https://img.icons8.com/?size=100&id=104091&format=png&color=000000" /> P5
 RNNs, Backpropagation, and Attention Mechanisms
 This repository contains solutions to various machine learning and neural network problems, including:
 
@@ -172,7 +172,7 @@ Practical Exercises
 
 - Answers: [Link to DL5](https://github.com/Sarayounesi/Deep-Learning-Projects/tree/main/DL_5_SaraYounesi)
 
-### P6
+### <img width="40" height="40" src="https://img.icons8.com/?size=100&id=104091&format=png&color=000000" /> P6
 Convolutional and Attention-based Networks, Evaluation Metrics, and GANs
 This repository contains solutions to various machine learning and neural network problems, including:
 ----------------------------------------------------------------------------------------------------
