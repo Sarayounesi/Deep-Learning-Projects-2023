@@ -1,7 +1,8 @@
 # Deep-Learning-Projects
 My solutions to IUST's Deep Learning Mini Projects, Fall 2023, Dr. Davoodabadi.
 
-## <img width="20" height="20" src="https://icons8.com/icon/kOPTH4LnJoIU/project-management" alt="homework"/> Homeworks
+## <img width="20" height="20" src="![image](https://github.com/user-attachments/assets/7ddf877e-c585-4db8-a641-546edd1d4626)
+" alt="homework"/> Homeworks
 ### HW1
 - Description: Homework 1 includes image formation questions.
 - Answers: [Link to HW1](https://github.com/lelnazrezaeel/Computer-Vision-IUST/tree/main/Homeworks/HW1)
