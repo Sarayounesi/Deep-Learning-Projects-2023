@@ -24,7 +24,7 @@ This repository contains solutions to various machine learning and deep learning
 
 ### P2
 - 
-1. 
+----------------------------------------------------------------------------------------------------
 Overfitting and Underfitting in Neural Networks
 •  Explanation of overfitting and underfitting.
 
@@ -32,7 +32,7 @@ Overfitting and Underfitting in Neural Networks
 
 •  Application of Dropout to prevent overfitting, with practical calculations.
 
-1. 
+----------------------------------------------------------------------------------------------------
 K-Nearest Neighbors (KNN) Algorithm
 •  Impact of changing the value of K on bias and variance.
 
