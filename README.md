@@ -1,5 +1,5 @@
 # Deep-Learning-Projects
-My solutions to IUST's Deep Learning Mini Projects, Fall 2023, Dr. Davoodabadi.
+My solutions to IUST's Deep Learning Projects, Fall 2023, Dr. Davoodabadi.
 
 ## <img width="40" height="40" src="https://img.icons8.com/?size=100&id=kOPTH4LnJoIU&format=png&color=000000" alt="homework"/> Projects
 ### <img width="40" height="40" src="https://img.icons8.com/?size=100&id=104091&format=png&color=000000" /> P1
