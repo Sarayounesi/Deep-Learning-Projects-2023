@@ -67,6 +67,7 @@ Optimization Techniques
 •  Comparison of Adam and SGD algorithms in handling saddle points.
 
 •  Analysis of cost reduction using different optimization algorithms.
+
 ----------------------------------------------------------------------------------------------------
 Convolutional Layers and Backpropagation
 •  Calculation of gradients for convolutional layers using backpropagation.
@@ -74,21 +75,25 @@ Convolutional Layers and Backpropagation
 •  Parameter count for different network layers.
 
 •  Comparison and applications of 2D and 3D convolutional layers.
+
 ---------------------------------------------------------------------------------------------------- 
 Brain Tumor Classification
 •  Implementation of a CNN for brain tumor classification.
 
 •  Use of Sequential and Functional API architectures.
+
 ----------------------------------------------------------------------------------------------------
 Practical Applications of Convolutional Layers
 •  Real-world examples where convolutional layers excel.
 
 •  Challenges posed by convolutional layers in certain scenarios.
+
 ----------------------------------------------------------------------------------------------------
 1x1 Convolutional Filters
 •  Purpose and impact of 1x1 filters in CNNs.
 
 •  Implementation and analysis of a simple CNN with 1x1 filters.
+
 ---------------------------------------------------------------------------------------------------- 
 Inception Module Implementation
 •  Structure and purpose of the Inception module.
@@ -118,6 +123,7 @@ Gas Consumption Prediction
 •  Analysis and correction of an LSTM model for predicting gas consumption.
 
 •  Identification of issues causing negative R² and suggestions for improvement.
+
 ----------------------------------------------------------------------------------------------------
 Convolutional and Recurrent Neural Networks
 •  Comparison of CNNs and RNNs, their applications, and parameter counts.
@@ -156,16 +162,19 @@ RNN Architectures and Applications
 •  Comparison of unidirectional and bidirectional RNNs for different use cases.
 
 •  Training RNN language models and their predictions.
+
 ----------------------------------------------------------------------------------------------------
 Backpropagation in RNNs
 •  Calculation of gradients for RNNs using backpropagation.
 
 •  Detailed derivation of gradients with respect to weights and activations.
+
 ----------------------------------------------------------------------------------------------------
 Attention Mechanisms
 •  Implementation of a hypothetical "argmax" attention mechanism.
 
 •  Analysis of the impact of using argmax on model training and gradient flow.
+
 ----------------------------------------------------------------------------------------------------
 Practical Exercises
 •  Completion of tasks in the provided ipynb4.Question notebook.
@@ -175,16 +184,19 @@ Practical Exercises
 ### <img width="40" height="40" src="https://img.icons8.com/?size=100&id=104091&format=png&color=000000" /> P6
 Convolutional and Attention-based Networks, Evaluation Metrics, and GANs
 This repository contains solutions to various machine learning and neural network problems, including:
+
 ----------------------------------------------------------------------------------------------------
 Convolutional vs. Attention-based Networks
 •  Performance comparison for tasks like cat vs. non-cat and human vs. non-human classification.
 
 •  Brief explanations of how each network type handles these tasks.
+
 ----------------------------------------------------------------------------------------------------
 Evaluation Metrics
 •  Explanation of TP, FP, TN, and FN concepts.
 
 •  Recommended evaluation metrics for projects with high stakes, such as criminal detection.
+
 ----------------------------------------------------------------------------------------------------
 Rotation Estimation and One-Hot Vectors
 •  Benefits of rotation estimation for classification tasks.
@@ -192,11 +204,13 @@ Rotation Estimation and One-Hot Vectors
 •  Explanation of one-hot vectors and their limitations.
 
 •  Discussion on how Word2Vec aligns with self-supervised learning algorithms.
+
 ----------------------------------------------------------------------------------------------------
 Network Structure and Hyperparameter Search
 •  Overview of reinforcement learning for automatic network and hyperparameter search.
 
 •  Applicability of this approach for object detection tasks, including input image size and layer count.
+
 ----------------------------------------------------------------------------------------------------
 GAN Training
 •  Analysis of why generated image quality may differ between the first and 100th epoch, despite similar loss values.
